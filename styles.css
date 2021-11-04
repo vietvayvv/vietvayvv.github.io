@@ -48,5 +48,6 @@
 
 .link-wrapper a:hover{
     color:red;
+    font-size: 3em;
 }
 
